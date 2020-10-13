@@ -12,3 +12,6 @@ Thanks a lot *Adrian Rosebrock* for sharing us your knowledges :)
 **A little error in the code:**
 I am not able to know the origin of the error. The paths sometimes cross over. I tried to clear the vector in which I save the positions, but it still be there. 
 If anyone has any idea doesn't hesitate to contact me :). I am always open to learn hehehehe.
+
+
+![alt text](https://github.com/alvgoro/balls_tracking/blob/main/frame.png)
