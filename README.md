@@ -14,5 +14,5 @@ I am not able to know the origin of the error. The paths sometimes cross over. I
 If anyone has any idea doesn't hesitate to contact me :). I am always open to learn hehehehe.
 
 
-![alt text](https://github.com/alvgoro/balls_tracking/blob/main/frame.png)
-![alt text](https://github.com/alvgoro/balls_tracking/blob/main/mask.png)
+![alt text](https://github.com/alvgoro/balls_tracking/blob/main/frame2.png)
+![alt text](https://github.com/alvgoro/balls_tracking/blob/main/mask2.png)
