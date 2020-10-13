@@ -15,3 +15,4 @@ If anyone has any idea doesn't hesitate to contact me :). I am always open to le
 
 
 ![alt text](https://github.com/alvgoro/balls_tracking/blob/main/frame.png)
+![alt text](https://github.com/alvgoro/balls_tracking/blob/main/mask.png)
