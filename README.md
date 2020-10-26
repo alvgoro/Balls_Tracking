@@ -1,6 +1,6 @@
 This is a short Python code using OpenCV which is able to track balls using a camera or a video input.
 
-I followed the tutorial from PyImageSearch:
+I followed the PyImageSearch tutorial from:
 https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 
 Thanks a lot *Adrian Rosebrock* for sharing us your knowledges :)
